@@ -1,0 +1,1 @@
+bastion_IP = 35.204.34.242  someinternalhost_IP = 10.164.0.3
